@@ -1,1 +1,1 @@
-Test for push!! tester funksjoner
+Test for push!! tester funksjoner med add?
