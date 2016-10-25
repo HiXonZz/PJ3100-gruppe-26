@@ -1,0 +1,1 @@
+ping -t www.google.com -a -l 5555
